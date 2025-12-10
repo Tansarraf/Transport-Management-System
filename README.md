@@ -1,7 +1,8 @@
 # Transport Management System - SpringBoot + PostgreSQL
 
 ### A robust backend system designed for logistics operations, enabling seamless management of Loads, Transporters, Bids, and Bookings. The workflow enforces real-world business rules such as truck capacity validation, controlled load status transitions, multi-truck allocation, and bid evaluation based on scoring logic.
-Built with Spring Boot and PostgreSQL, this backend provides a reliable foundation for Transport Management Systems (TMS).
+### Built with Spring Boot and PostgreSQL, this backend provides a reliable foundation for Transport Management Systems (TMS).
+
 ---
 
 ## Tech Stack
