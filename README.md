@@ -55,7 +55,7 @@ Built with Spring Boot and PostgreSQL, this backend provides a reliable foundati
 
 ## Test Coverage Images
 Here are a few screenshots of the APIs tested - 
-<img width="1382" height="1094" alt="image" src="https://github.com/user-attachments/assets/3aeeaef2-f4b5-4bda-a5c7-f5ba29b1f9a9" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/3aeeaef2-f4b5-4bda-a5c7-f5ba29b1f9a9" />
 
 
 ## Developed by - Tanishk Sarraf
