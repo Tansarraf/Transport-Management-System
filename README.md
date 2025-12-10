@@ -51,11 +51,14 @@ Built with Spring Boot and PostgreSQL, this backend provides a reliable foundati
 ---
 
 ## Database Schema Diagram
+
 <img width="600" height="600" alt="TMS_ERD" src="https://github.com/user-attachments/assets/e435e4e6-7747-4a60-9d49-98c19a140f81" />
 
 ## Test Coverage Images
-Here are a few screenshots of the APIs tested - 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/3aeeaef2-f4b5-4bda-a5c7-f5ba29b1f9a9" />
 
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/3aeeaef2-f4b5-4bda-a5c7-f5ba29b1f9a9" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/3d1348cc-f9fd-4411-9dcc-905751c1fe42" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/4b591b15-a62f-47a5-81e7-7dc4427a2bdd" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/234d74aa-f40d-4bb2-8878-1fe6f133882c" />
 
 ## Developed by - Tanishk Sarraf
